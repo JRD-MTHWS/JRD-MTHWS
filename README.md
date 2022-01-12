@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JRD-MTHWS
+- 👀 I’m interested in Automation, Machine Learning
+- 🌱 I’m currently learning Python
+- 📫 How to reach me jaredmathews10@gmail.com
